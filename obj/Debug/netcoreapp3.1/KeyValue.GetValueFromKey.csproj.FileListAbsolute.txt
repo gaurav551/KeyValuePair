@@ -1,0 +1,13 @@
+C:\Users\Gaurav\Desktop\c#Apps\KeyValue.GetValueFromKey\bin\Debug\netcoreapp3.1\KeyValue.GetValueFromKey.exe
+C:\Users\Gaurav\Desktop\c#Apps\KeyValue.GetValueFromKey\bin\Debug\netcoreapp3.1\KeyValue.GetValueFromKey.deps.json
+C:\Users\Gaurav\Desktop\c#Apps\KeyValue.GetValueFromKey\bin\Debug\netcoreapp3.1\KeyValue.GetValueFromKey.runtimeconfig.json
+C:\Users\Gaurav\Desktop\c#Apps\KeyValue.GetValueFromKey\bin\Debug\netcoreapp3.1\KeyValue.GetValueFromKey.runtimeconfig.dev.json
+C:\Users\Gaurav\Desktop\c#Apps\KeyValue.GetValueFromKey\bin\Debug\netcoreapp3.1\KeyValue.GetValueFromKey.dll
+C:\Users\Gaurav\Desktop\c#Apps\KeyValue.GetValueFromKey\bin\Debug\netcoreapp3.1\KeyValue.GetValueFromKey.pdb
+C:\Users\Gaurav\Desktop\c#Apps\KeyValue.GetValueFromKey\obj\Debug\netcoreapp3.1\KeyValue.GetValueFromKey.csprojAssemblyReference.cache
+C:\Users\Gaurav\Desktop\c#Apps\KeyValue.GetValueFromKey\obj\Debug\netcoreapp3.1\KeyValue.GetValueFromKey.AssemblyInfoInputs.cache
+C:\Users\Gaurav\Desktop\c#Apps\KeyValue.GetValueFromKey\obj\Debug\netcoreapp3.1\KeyValue.GetValueFromKey.AssemblyInfo.cs
+C:\Users\Gaurav\Desktop\c#Apps\KeyValue.GetValueFromKey\obj\Debug\netcoreapp3.1\KeyValue.GetValueFromKey.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav\Desktop\c#Apps\KeyValue.GetValueFromKey\obj\Debug\netcoreapp3.1\KeyValue.GetValueFromKey.dll
+C:\Users\Gaurav\Desktop\c#Apps\KeyValue.GetValueFromKey\obj\Debug\netcoreapp3.1\KeyValue.GetValueFromKey.pdb
+C:\Users\Gaurav\Desktop\c#Apps\KeyValue.GetValueFromKey\obj\Debug\netcoreapp3.1\KeyValue.GetValueFromKey.genruntimeconfig.cache
