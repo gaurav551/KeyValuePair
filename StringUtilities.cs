@@ -2,11 +2,11 @@ namespace KeyValue.GetValueFromKey
 {
     public static class StringUtilities
     {
-        public static string GetLast(this string source, int lastCharLenght)
+        public static string GetLast(this string source, int lastCharLength)
         {
-            if (lastCharLenght >= source.Length)
+            if (lastCharLength >= source.Length)
                 return source;
-            return source.Substring(source.Length - lastCharLenght);
+            return source.Substring(source.Length - lastCharLength);
         }
     }
 }
